@@ -1,0 +1,4 @@
+/mnt/c/projects/akil-studio/tx-hub/Trading-bot/logs/run-monthly-check.sh
+/mnt/c/projects/akil-studio/tx-hub/Trading-bot/run-monthly-check.sh
+/mnt/c/projects/akil-studio/tx-hub/Trading-bot/start-all.sh
+/mnt/c/projects/project-hub/docs/startup-scripts.txt

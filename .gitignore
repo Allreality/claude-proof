@@ -1,0 +1,22 @@
+Logs
+claude-proof/logs/*.txt
+*.log
+Personal configuration
+.env
+.env.local
+config.local.sh
+OS Files
+.DS_Store
+Thumbs.db
+Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+Temporary files
+*.tmp
+*.bak
+Keep directories
+!claude-proof/logs/.gitkeep
+!claude-proof/protected_items.txt
