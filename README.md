@@ -1,4 +1,4 @@
-# Claude Proof System v1.0
+# ClaudeAI Proof System v1.0
 
 > A protection system to prevent AI assistants from accidentally overwriting working projects
 
